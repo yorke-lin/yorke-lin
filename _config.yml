@@ -105,4 +105,5 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/yorke-lin/yorke-lin.github.io.git
-  branch: marster
+  branch: master
+
